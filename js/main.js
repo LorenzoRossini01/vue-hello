@@ -7,6 +7,4 @@ createApp({
       picture: "",
     };
   },
-
-  methods: {},
 }).mount("#app");
